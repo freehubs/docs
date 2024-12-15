@@ -85,9 +85,7 @@
     {
       "group": "Data Warehouse 101",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "data-warehouse-101/intro"
       ]
     }
   ],
